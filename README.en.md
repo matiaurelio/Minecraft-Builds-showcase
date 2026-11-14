@@ -1,5 +1,7 @@
 # Minecraft Sin Shaders Builds
 
+[Español](README.md) · **English** · [Português](README.pt.md)
+
 **3D Viewer and Animator for Minecraft Bedrock Builds**
 
 A web tool to load, visualize, animate, and share Minecraft Bedrock structures quickly and visually. Perfect for builders who want to showcase the construction process layer by layer or block by block, without needing shaders or external software.
