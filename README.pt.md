@@ -100,3 +100,13 @@ Projeto pessoal. Todos os direitos reservados.
 ---
 
 **Feito para a comunidade de construtores de Minecraft Bedrock.**
+
+## Contato
+
+- Siga meu Instagram de Minecraft: [@minecraft_sin_shaders](https://www.instagram.com/minecraft_sin_shaders/)
+- Siga meu Instagram pessoal: [@matiaurelio](https://www.instagram.com/matiaurelio/)
+- LinkedIn: [matiaurelio](https://www.linkedin.com/in/matiaurelio)
+
+---
+
+© 2026 @matiaurelio. Todos os direitos reservados.
