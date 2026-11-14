@@ -97,6 +97,13 @@ Herramienta en desarrollo activo. Se siguen agregando mejoras de usabilidad y nu
 
 Proyecto personal. Todos los derechos reservados.
 
+## Contacto
+
+- Seguime en mi Instagram de MineCraft: [@minecraft_sin_shaders](https://www.instagram.com/minecraft_sin_shaders/)
+- Seguime en mi Instagram personal: [@matiaurelio](https://www.instagram.com/matiaurelio/)
+- LinkedIn: [matiaurelio](https://www.linkedin.com/in/matiaurelio)
+
+
 ---
 
 **Hecho para la comunidad de constructores de Minecraft Bedrock.**
