@@ -107,3 +107,7 @@ Proyecto personal. Todos los derechos reservados.
 ---
 
 **Hecho para la comunidad de constructores de Minecraft Bedrock.**
+
+---
+
+© 2026 @matiaurelio. Todos los derechos reservados.
